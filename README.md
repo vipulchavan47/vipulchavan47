@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vipul</h1>
 <h3 align="center">A passionate Java programmer from India</h3>
 
+<p align="left"> <a href="https://twitter.com/vipulchavan_" target="blank"><img src="https://img.shields.io/twitter/follow/vipulchavan_?logo=twitter&style=for-the-badge" alt="vipulchavan_" /></a> </p>
+
 - 🌱 I’m currently learning **Data structures and algorithms.**
 
 - 👨‍💻 Take a look at my portfolio website: [https://vipul-port.vercel.app](https://vipul-port.vercel.app)
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/vipulchavan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipulchavan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
