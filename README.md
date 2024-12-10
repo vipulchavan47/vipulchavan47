@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://vipul-port.vercel.app](https://vipul-port.vercel.app)
+- 👨‍💻 Take a look at my portfolio website: [https://vipul-port.vercel.app](https://vipul-port.vercel.app)
 
 
 <p align="left">
