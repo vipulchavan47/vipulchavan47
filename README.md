@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm **Vipul**, a passionate Information Technology
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 ### Web Technologies:
@@ -41,14 +40,6 @@ Welcome to my GitHub profile! I'm **Vipul**, a passionate Information Technology
 
 ---
 
-## 🌟 About Me
-
-- 🎓 Bachelor of Engineering in Information Technology, graduating in 2026.
-- 🌱 Learning Data Structures and Algorithms.
-
-
----
-
 
 ## 📫 Let's Connect!
 
@@ -56,9 +47,7 @@ Welcome to my GitHub profile! I'm **Vipul**, a passionate Information Technology
   <a href="https://twitter.com/vipulchavan_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://vipul-port.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
+
 
 Feel free to explore my repositories and connect with me for collaboration or discussions. Happy coding! 😄
