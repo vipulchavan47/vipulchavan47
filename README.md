@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Vipul**, a passionate Information Technology student and aspiring software developer. I love coding, and learning new technologies. 🚀
+Welcome to my GitHub profile! I'm **Vipul**. I love coding, and learning new technologies. 🚀
 
 ---
 
@@ -40,14 +40,4 @@ Welcome to my GitHub profile! I'm **Vipul**, a passionate Information Technology
 
 ---
 
-
-## 📫 Let's Connect!
-
-<p>
-  <a href="https://twitter.com/vipulchavan_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-
-Feel free to explore my repositories and connect with me for collaboration or discussions. Happy coding! 😄
+Happy coding! 😄
