@@ -1,8 +1,9 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Vipul**. I love coding, and learning new technologies. 🚀
+Welcome to my GitHub profile! I'm **Vipul**. I love coding, and learning new technologies. 
 
 ---
+🔗 **Portfolio:** https://vipulchavan.vercel.app/
 
 ## 🛠️ Technologies and Tools
 
