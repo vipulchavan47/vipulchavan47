@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Vipul Chavan
 
-**Portfolio:** https://vipulchavan.vercel.app  
-**LeetCode:** https://leetcode.com/u/vipulcx  
-**Email:** vipulchavan3301@gmail.com  
-
 ---
 ##  Tech Stack
 
