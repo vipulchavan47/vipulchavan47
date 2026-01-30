@@ -1,8 +1,6 @@
 # Hi, I'm Vipul 👋  
 **Java Backend Developer | Spring Boot | DSA | Problem Solver**
 
----
-
 ##  Tech Stack  
 
 ### Languages  
