@@ -14,19 +14,6 @@ Passionate about building secure, scalable backend applications using Java and S
 
 ---
 
-## 👨‍💻 About Me
-
-```java
-public class Vipul {
-
-    String role = "Java Backend Developer";
-
-    String interests =
-        "Backend Development • REST APIs • Clean Architecture • System Design";
-}
-```
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -60,22 +47,6 @@ public class Vipul {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vipulchavan47&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulchavan47&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulchavan47&layout=compact&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
