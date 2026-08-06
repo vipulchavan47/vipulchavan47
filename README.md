@@ -41,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="50"/>
   <img src="https://cdn.simpleicons.org/junit5/25A162" title="JUnit5" height="50"/>
-  <img src="https://cdn.simpleicons.org/mockito/78A641" title="Mockito" height="50"/>
 </p>
 
 <br/>
